@@ -1,5 +1,12 @@
 # Illam - AI Chatbot Automation
 
+.__.__  .__                  
+|__|  | |  | _____    _____  
+|  |  | |  | \__  \  /     \ 
+|  |  |_|  |__/ __ \|  Y Y  \
+|__|____/____(____  /__|_|  /
+                  \/      \/ 
+
 **Illam** is an AI chatbot automation project designed to assist in automating various tasks such as managing bank account bills, tracking diet and sleep patterns, and more. This README file provides an overview of the project and instructions on how to set it up and utilize its features.
 
 ## Table of Contents
